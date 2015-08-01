@@ -16,7 +16,7 @@ CI Status: [![Build Status](https://travis-ci.org/springside/springside4.svg?bra
 
 
 
-==========================================================================
+================================== 分割线 ========================================
 
 
 基于springside4-4.2.3.GA。感谢江南白衣和他的团队！
@@ -52,5 +52,6 @@ CI Status: [![Build Status](https://travis-ci.org/springside/springside4.svg?bra
 
 
 
+evernote 下备份的 “springside 4.2.3 新改 生成项目”
 
 --EOF--
